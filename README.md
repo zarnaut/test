@@ -21,4 +21,7 @@ Clone / Download to local computer
 ## Using the Shell
 
 **git clone + [file name]** - clone the 
-**git log** - 
+**git log** - shows previous 
+**git status** - shows if any changes hav
+**git add [README.md]** - 
+**git add -A** - adds all files
