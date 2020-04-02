@@ -18,13 +18,15 @@ Create a repo
 Clone / Download to local computer
 
 
-## Using the Shell
-
-**git clone + [file name]** - clone the 
-**git log** - shows previous 
-**git status** - shows if any changes hav
-**git add [README.md]** - 
-**git add -A** - adds all files
-**git commit -m "[MESSAGE]"** - commit
+## Using the Shell  
+Main Git shell commands:  
+**git clone + [REPOSITORT-URL]** - clone the repo  
+**git log** - see commit history  
+**git status** - shows if any changes are not commited yet  
+**git add [README.md]** - stage "add" a file  
+**git add -A** - stages all files  
+**git add -u** - stages updated files onl (modified or deleted, but not new)
+**git add .** - stages new files only (not updated)
+**git commit -m "MESSAGE"** - commit
 **git pull** - pull
 **git push** - push
