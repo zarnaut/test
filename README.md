@@ -16,3 +16,9 @@ Creates a central node for changes by different users.
 Steps to making a file:  
 Create a repo  
 Clone / Download to local computer
+
+
+## Using the Shell
+
+**git clone + [file name]** - clone the 
+**git log** - 
