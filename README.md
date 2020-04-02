@@ -25,3 +25,6 @@ Clone / Download to local computer
 **git status** - shows if any changes hav
 **git add [README.md]** - 
 **git add -A** - adds all files
+**git commit -m "[MESSAGE]"** - commit
+**git pull** - pull
+**git push** - push
