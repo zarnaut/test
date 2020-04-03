@@ -25,7 +25,7 @@ Main Git shell commands:
 **git status** - shows if any changes are not commited yet  
 **git add [README.md]** - stage "add" a file  
 **git add -A** - stages all files  
-**git add -u** - stages updated files onl (modified or deleted, but not new)
+**git add -u** - stages updated files only (modified or deleted, but not new)
 **git add .** - stages new files only (not updated)
 **git commit -m "MESSAGE"** - commit
 **git pull** - pull
