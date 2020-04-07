@@ -30,3 +30,6 @@ Main Git shell commands:
 **git commit -m "MESSAGE"** - commit
 **git pull** - pull
 **git push** - push
+
+## Merging Branches
+Make some changes and commit
