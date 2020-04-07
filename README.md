@@ -31,4 +31,5 @@ Main Git shell commands:
 **git pull** - pull
 **git push** - push
 
-Testing
+## Merging Branches
+Make some changes and commit
