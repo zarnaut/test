@@ -1,6 +1,8 @@
 # My first test repo
 ## Date April 7
 
+Now with changes by Stephen
+
 Hello World!
 
 
@@ -32,4 +34,5 @@ Main Git shell commands:
 **git pull** - pull
 **git push** - push
 
-Testing
+## Merging Branches
+Make some changes and commit
